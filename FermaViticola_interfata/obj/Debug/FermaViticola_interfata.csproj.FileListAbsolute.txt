@@ -1,0 +1,16 @@
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\bin\Debug\FermaViticola_interfata.exe.config
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\bin\Debug\FermaViticola_interfata.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\bin\Debug\FermaViticola_interfata.pdb
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.csprojAssemblyReference.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.Form1.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.Properties.Resources.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.csproj.GenerateResource.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.pdb
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.Form2.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.Form3.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.Form4.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.Form5.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.Form6.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL III\SEMSTRUL I\BD\PROIECT\FermaViticola_interfata\FermaViticola_interfata\obj\Debug\FermaViticola_interfata.Form7.resources
